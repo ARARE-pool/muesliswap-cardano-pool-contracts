@@ -3,3 +3,4 @@ print-plc
 bin
 cabal.project.local
 printed
+keys/*.skey
