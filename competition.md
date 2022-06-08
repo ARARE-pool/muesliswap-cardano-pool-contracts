@@ -22,8 +22,8 @@ The security claim we are making about the contracts contained in this repositor
 This is the standard behavior of a Uniswap-style AMM-DEX, to learn more have a look at the [Uniswap whitepaper](https://uniswap.org/whitepaper.pdf). Note that in particular, in the context of this competition, the MuesliSwap Orderbook v2 contract should be treated as a black box since its behavior is independent of the above security claim (and has successfully passed the Mlabs audit).
 
 In terms of vulnerabilities and bug bounties we distinguish between:
-- **Major vulnerability:** A clear violation of the security claim above, meaning a malicious actor can steal user funds).
-- **Minor issue:** Issue that violates the security claim above in some special cases. In no circumstance can this issue lead to a significant loss of user funds.
+- **Major vulnerability:** (*bug bounty of 2,000 to 10,000 ADA*) A clear violation of the security claim above, meaning a malicious actor can steal user funds).
+- **Minor issue:** (*bug bounty of 100 to 500 ADA*) Issue that violates the security claim above in some special cases. In no circumstance can this issue lead to a significant loss of user funds.
 
 *About the MuesliSwap community audit NFT:* The community audit NFT is a token of appreciation for the effort to increase trust in the MuesliSwap protocol. It is awarded to any user that claims to have looked at the protocol and tried to understand and verify the correctness of its behavior.
 
